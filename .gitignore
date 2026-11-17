@@ -1,0 +1,5 @@
+# OS and editor-generated files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
